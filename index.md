@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science 
 
-[Project 1 Title](/sample_page)
+[Data Analysis & Visualization: Determining the Risk factors for Diabetes using R](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
