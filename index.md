@@ -12,11 +12,12 @@ In this work, i performed some critical EDA to extract important characteristics
 
 <img src="images/Pima Indian Dataset Fig 5a.jpg?raw=true"/>
 
+[![](https://img.shields.io/badge/R-9cf?logo=R)](#)
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[![](https://img.shields.io/badge/R-9cf?logo=R)](#)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
