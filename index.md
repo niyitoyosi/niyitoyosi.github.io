@@ -2,9 +2,10 @@
 
 ---
 
-### Data Science 
+### Data Analysis & Visualization: Determining the Risk factors for Diabetes using R Programming
+I examined the risk factors for Diabetes using the Female Pima Indian heritage of at least 21 years old dataset.
+In this work, i performed some critical EDA to extract important characteristics and gain valuable insights from the dataset, annd also used the Logistic regression model to determine which of the clinical variables have the most influence on the outcome of diabetes prevalence.
 
-[Data Analysis & Visualization: Determining the Risk factors for Diabetes using R](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
