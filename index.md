@@ -12,7 +12,7 @@ In this work, i performed some critical EDA to extract important characteristics
 
 <img src="images/Pima Indian Dataset Fig 5a.jpg?raw=true"/>
 
-[![](https://img.shields.io/badge/R-9cf?logo=R)](#)
+[![](https://img.shields.io/badge/R-9cf?logo=R)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
