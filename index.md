@@ -10,7 +10,7 @@ In this work, i performed some critical EDA to extract important characteristics
 
 <img src="images/Pima Indian Dataset Fig 2a.jpg?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Pima Indian Dataset Fig 3a.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
