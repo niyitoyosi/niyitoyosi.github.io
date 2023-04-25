@@ -6,6 +6,10 @@
 I examined the risk factors for Diabetes using the Female Pima Indian heritage (of at least 21 years old) dataset.
 In this work, i performed some critical EDA to extract important characteristics and gain valuable insights from the dataset, annd also used the Logistic regression model to determine which of the clinical variables have the most influence on the outcome of diabetes prevalence.
 
+<img src="images/Pima Indian Dataset Fig 1.png?raw=true"/>
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
